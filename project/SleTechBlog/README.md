@@ -36,7 +36,9 @@
 
 > 아래 내용을 통합하고, React js로 code 작성하고, sass 파일로 꾸미자!
 
-![architecture](file:///Users/jeonsang-gyu/Desktop/react-blog-journey/src/architecture.png?lastModify=1583073384)
+<center><img src="./../../src/architecture.png" alt="architecture" /></center>
+
+
 
 
 

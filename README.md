@@ -14,7 +14,7 @@
 
 * 슬기짜기는 Computer Science라는 학문을 중심으로 여러 다른 분야와  **융합**하여 프로젝트를 진행하는 동아리 입니다.
 
-  <img src="./src/computer-science.png" alt="image-20200229172830325" width = "50%" />
+  <center><img src="./src/computer-science.png" alt="image-20200229172830325" width = "50%" /></center>
 
   
 
@@ -50,7 +50,7 @@
 
 ### [프로젝트 List](https://github.com/HGU-slegizzagi/20-1/tree/master/project)
 
-* [Slegizzagi Tech Blog 개설](./)
+* [Slegizzagi Tech Blog 개설](https://github.com/HGU-slegizzagi/20-1/blob/master/project/SleTechBlog/README.md)
 * [공모전 출전](./)
 * [알고리즘 Practice](./)
 
