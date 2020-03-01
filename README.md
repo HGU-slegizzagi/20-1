@@ -51,8 +51,8 @@
 ### [프로젝트 List](https://github.com/HGU-slegizzagi/20-1/tree/master/project)
 
 * [Slegizzagi Tech Blog 개설](https://github.com/HGU-slegizzagi/20-1/blob/master/project/SleTechBlog/README.md)
-* [공모전 출전](./)
-* [알고리즘 Practice](./)
+* 공모전 출전
+* 알고리즘 Practice
 
 ## 20년도 1학기 계획
 
