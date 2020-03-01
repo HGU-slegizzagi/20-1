@@ -48,7 +48,7 @@
 * **:anchor: 개발자:** 프로젝트에서 마디점을 연결하는 역할을 한다
 * **:sparkles: 디자이너:** 프로젝트의 시작점, 종착점 그리고 마디점들을 알맞게 색칠하는 역할을 한다.
 
-### 프로젝트 List
+### [프로젝트 List](https://github.com/HGU-slegizzagi/20-1/tree/master/project)
 
 * [Slegizzagi Tech Blog 개설](./)
 * [공모전 출전](./)
