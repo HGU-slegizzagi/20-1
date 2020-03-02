@@ -1,10 +1,6 @@
 ![slegizzagi](./src/slegizzagi.png)
-
-# 20-1 학기 슬기짜기
 > "Fail big, Never give up and learn from it"
-
----
-
+# 20-1 학기 슬기짜기
 > 안녕하세요 20-1학기 슬기짜기 회장 전상규 입니다. 이번학기도 한번 슬기롭게 짜보죠!
 
 ## 슬기짜기란.
@@ -80,4 +76,4 @@
 | 17 주차~                           | Summer Project Start                 |
 
 ## 운영 방침
-
+> TBC
