@@ -1,6 +1,7 @@
 ![slegizzagi](./src/slegizzagi.png)
 
 # 20-1 학기 슬기짜기
+> "Fail big, Never give up and learn from it"
 
 ---
 
