@@ -18,6 +18,7 @@
 
 * 하나의 System을 설계 합니다.
 * 설계된 System을 업그레이드 시켜 참가 할 수 있는 모든 공모전에 대하여 준비합니다.
+* [Project Syllabus를 작성해주세요](https://github.com/HGU-slegizzagi/20-1/blob/master/project/project_detail_format.md)
 
 
 ### 알고리즘 
@@ -26,5 +27,6 @@
 *  Weekly Meeting 때 마다, 선정한 알고리즘을 설명합니다.
 * 한 학기 2회 Competition을 엽니다. 참가비를 Comeptition Bounty로 걸어 놓습니다.
 * 가장 많이 푼 한명이 다 가져갑니다.
+* [Project Syllabus를 작성해주세요](https://github.com/HGU-slegizzagi/20-1/blob/master/project/project_detail_format.md)
 
 
