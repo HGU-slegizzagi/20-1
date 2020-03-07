@@ -31,6 +31,7 @@
 
 ### 단체
 
+* **정모 시간: 매주 월요일 늦은 8시**
 * MT 및 OT
 * 동아리 BBQ
 * 동아리 정모 세미나 참여
@@ -53,6 +54,8 @@
 * [Slegizzagi Tech Blog 개설](https://github.com/HGU-slegizzagi/20-1/blob/master/project/SleTechBlog/README.md)
 * [공모전 출전](./)
 * [알고리즘 Practice](./)
+* Global Warming
+* 3R-Market
 
 ## 20년도 1학기 계획
 
@@ -78,5 +81,22 @@
 | <font color = "red">16 주차</font> | 기말 고사: ~~Wee Off~~               |
 | 17 주차~                           | Summer Project Start                 |
 
+## Recuriting
+
+* [리크루팅 관련 영상](https://www.youtube.com/watch?v=ustX9ZnwvD8&t=69s)
+* [리크루이팅 지원서](https://forms.gle/NKy3bLKCBQRYwHsU8)
+
 ## 운영 방침
+
+## Contact
+
+* 회장 전상규
+
+  > 편안하게 연락주시면, 편안하게 답변하겠습니다~ :smiley:
+
+  * :phone: 010-4756-9046
+  * :email: skjeon96@naver.com
+  * Kakaotalk: skjeon96
+
+
 
