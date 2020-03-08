@@ -85,17 +85,4 @@
 
 * [the world counts](https://www.theworldcounts.com/)
 
-* :triumph:
-
-  <iframe height='100' src='https://www.theworldcounts.com/embed/challenges/23?background_color=white&color=black&font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&font_size=14' style='border: none' width='300'></iframe>
-
-* :low_brightness:
-
-  <iframe height='100' src='https://www.theworldcounts.com/embed/challenges/21?background_color=white&color=black&font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&font_size=14' style='border: none' width='300'></iframe>
-  
-* :ocean:
-
-  <iframe height='100' src='https://www.theworldcounts.com/embed/challenges/68?background_color=white&color=black&font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&font_size=14' style='border: none' width='300'></iframe>
-
-  
 
