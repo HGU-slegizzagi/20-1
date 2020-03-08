@@ -14,7 +14,7 @@
 * GitHub repository로 동아리가 운영 되는 현실이 안탑깝습니다....ㅠㅠ
 * React와 AWS를 사용해서 슬기짜기 동아리 한번 만들어보죠!!!
 
-### [Global Warming](https://github.com/HGU-slegizzagi/20-1/tree/master/project/Global%20Warming
+### [Global Warming](https://github.com/HGU-slegizzagi/20-1/tree/master/project/Global%20Warming)
 
 * 지구가 뜨거워지고 있는 원인, 속도 그리고 결과 및 효과에 대해서 알아보는 것이 목표이다.
 * 기존의 신뢰도가 있는 data를 기반 우리가 만든 간단한 알고리즘을 통해 결과를 예측할 수 있는 **통계 툴**을 만들어보자.
