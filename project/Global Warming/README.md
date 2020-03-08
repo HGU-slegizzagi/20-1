@@ -6,6 +6,7 @@
 
 > 작성자: 전상규
 <img src = "./../../src/global_warming_logo.png" width = 50%>
+
 ## 종착점
 
 ### 목적
