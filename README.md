@@ -1,4 +1,8 @@
-![slegizzagi](./src/slegizzagi.png)
+<p>
+  <img src = "./src/slegizzagi.png" width = 20%>
+</p>
+
+
 
 # 20-1 학기 슬기짜기
 
@@ -21,13 +25,37 @@
 ## 활동
 
 > * 2020년 1학기 부터는, 슬기짜기에서는 모두가 본인이 원하는 프로젝트에 속해 있어야 합니다. 개인의 활동으로는 프로젝트를 성장 시키고, 단체 활동에서는 그러한 성장을 다른 사람들에게 나눠주는 역할을 하게 됩니다.
->
-> * 다음은 각각, 슬기짜기 일원으로서 개인과 단체에 대한 활동입니다. 
+>* 다음은 각각, 슬기짜기 일원으로서 개인과 단체에 대한 활동입니다. 
+
+| Sle_Seminar                | Sle_Project                | Sle_Algorithm           | Sle_Community                |
+| -------------------------- | -------------------------- | ----------------------- | ---------------------------- |
+| ![](./src/seminarLogo.png) | ![](./src/projectLogo.png) | ![](./src/algoLogo.png) | ![](./src/communityLogo.png) |
+
+
+
+### Sle_Seminar
+
+* 본인들이 관심이 있거나 나누고 싶은 주제에 대해서 대략 10분에 걸쳐서 seminar를 진행합니다.
+
+### Sle_Project
+
+* Project의 주제를 선정하고, 설계하며, 완벽한 개발의 목적이 아닌, 진행 과정 속에서의 배움을 추구하며 프로젝트를 진행합니다.
+
+### Sle_Algorithm
+
+* 하루에 쉬운 문제를 시작으로 1~2개의 문제를 풀며 진행합니다.
+
+### Sle_Community
+
+* 가끔식은 잉여짓을 하며, 프로그래머에게 중요한 Social Network를 관리합니다.
+
+
 
 ### 개인 활동
 
 * 프로젝트에 속하여 설계 및 건설하기.
 * 한 학기 최소 1회 세미나 진행
+* Optional: sle_Algo 참여
 
 ### 단체
 
@@ -36,26 +64,7 @@
 * 동아리 BBQ
 * 동아리 정모 세미나 참여
 * 임원 선거
-* 방학 프로젝트 (Option)
-
-## 프로젝트
-
-> * :sailboat: 프로젝트는 한 척의 배가 넓은 바다를 항해하는 것과 같습니다. 배에 탄 crew들은 모두 자신들의 role을 통헤 배가 큰 차질 없이 목적지에 도착하는 것입니다.
-> * Role은 프로젝트에 따라 세분화 혹은 수정이 충분히 가능합니다.
-
-### Role
-
-* **:telescope: 기획자:** 프로젝트의 3가지 요소를 정한다. 시작점(start), 종착점(end), 마디점(node).
-* **:anchor: 개발자:** 프로젝트에서 마디점을 연결하는 역할을 한다
-* **:sparkles: 디자이너:** 프로젝트의 시작점, 종착점 그리고 마디점들을 알맞게 색칠하는 역할을 한다.
-
-### [프로젝트 List](https://github.com/HGU-slegizzagi/20-1/tree/master/project)
-
-* [Slegizzagi Tech Blog 개설](https://github.com/HGU-slegizzagi/20-1/blob/master/project/SleTechBlog/README.md)
-* [공모전 출전](./)
-* [알고리즘 Practice](./)
-* Global Warming
-* 3R-Market
+* Optional: 방학 프로젝트 (Option)
 
 ## 20년도 1학기 계획
 
