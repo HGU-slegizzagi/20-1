@@ -18,8 +18,9 @@
 
 * 슬기짜기는 Computer Science라는 학문을 중심으로 여러 다른 분야와  **융합**하여 프로젝트를 진행하는 동아리 입니다.
 
-  <center><img src="./src/computer-science.png" alt="image-20200229172830325" width = "50%" /></center>
-
+  <p>
+  <img src="./src/computer-science.png" alt="image-20200229172830325" width = "30%" /></p>
+  
   
 
 ## 활동
@@ -65,6 +66,10 @@
 * 동아리 정모 세미나 참여
 * 임원 선거
 * Optional: 방학 프로젝트 (Option)
+
+
+
+
 
 ## 20년도 1학기 계획
 
