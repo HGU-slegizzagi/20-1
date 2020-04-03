@@ -75,25 +75,25 @@
 
 ### 주차 별
 
-| 주차                               | 내용                                 |
-| ---------------------------------- | ------------------------------------ |
-| 1 주차                             | 기존 멤버 설문 조사 & Proejct 등록   |
-| 2 주차                             | Recruiting Week                      |
-| 3 주차                             | Project 등록 마감 & Recruiting Week  |
-| 4 주차                             | Recruiting End & Slegizzagi Kick Off |
-| 5 주차                             | OT (Orientation)                     |
-| 6 주차                             | sleCS01(세미나) + Project Meeting    |
-| 7 주차                             | sleCS01 + Project Meeting            |
-| <font color = "red">8 주차</font>  | 중간 고사: ~~Week Off~~              |
-| 9 주차                             | Late MT or BBQ                       |
-| 10 주차                            | sleCS01 + Project Meeting            |
-| 11 주차                            | sleCS01 + Project Meeting            |
-| 12 주차                            | sleCS01 + Project Meeting            |
-| 13 주 차                           | sleCS01 + Project Meeting            |
-| 14 주차                            | :tada: ​Slegizzagi Party :pizza: ​​     |
-| 15 주차                            | ~~Week Off~~                         |
-| <font color = "red">16 주차</font> | 기말 고사: ~~Wee Off~~               |
-| 17 주차~                           | Summer Project Start                 |
+| 주차                               | 내용                                                         |
+| ---------------------------------- | ------------------------------------------------------------ |
+| 1 주차                             | 기존 멤버 설문 조사 & Proejct 등록                           |
+| 2 주차                             | Recruiting Week                                              |
+| 3 주차                             | Project 등록 마감 & Recruiting Week                          |
+| 4 주차                             | Recruiting End & Slegizzagi Kick Off                         |
+| 5 주차                             | [OT (Orientation)](./Reuglar Meeting/5th week/Slegizzagi OT/pdf) |
+| 6 주차                             | sleCS01(세미나) + Project Meeting                            |
+| 7 주차                             | sleCS01 + Project Meeting                                    |
+| <font color = "red">8 주차</font>  | 중간 고사: ~~Week Off~~                                      |
+| 9 주차                             | Late MT or BBQ                                               |
+| 10 주차                            | sleCS01 + Project Meeting                                    |
+| 11 주차                            | sleCS01 + Project Meeting                                    |
+| 12 주차                            | sleCS01 + Project Meeting                                    |
+| 13 주 차                           | sleCS01 + Project Meeting                                    |
+| 14 주차                            | :tada: ​Slegizzagi Party :pizza: ​​                             |
+| 15 주차                            | ~~Week Off~~                                                 |
+| <font color = "red">16 주차</font> | 기말 고사: ~~Wee Off~~                                       |
+| 17 주차~                           | Summer Project Start                                         |
 
 ## Recuriting
 
