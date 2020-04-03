@@ -32,7 +32,7 @@
 | -------------------------- | -------------------------- | ----------------------- | ---------------------------- |
 | ![](./src/seminarLogo.png) | ![](./src/projectLogo.png) | ![](./src/algoLogo.png) | ![](./src/communityLogo.png) |
 
-* [정모 week 5](./Reuglar Meeting/5th week/Slegizzagi OT/pdf)
+* [정모 week 5](./Regular%20Meeting/5th%20Week/Slegizzagi%20OT.pdf)
 
 ### Sle_Seminar
 
