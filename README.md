@@ -33,6 +33,7 @@
 | ![](./src/seminarLogo.png) | ![](./src/projectLogo.png) | ![](./src/algoLogo.png) | ![](./src/communityLogo.png) |
 
 * [정모 week 5](./Regular%20Meeting/5th%20Week/Slegizzagi%20OT.pdf)
+* [정모 week 6](./Regular%20Meeting/6th%20Week/Slegizzagi_2nd.pdf)
 
 ### Sle_Seminar
 
